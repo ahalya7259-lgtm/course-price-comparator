@@ -1,0 +1,3 @@
+course_category,course_name,platform,price_inr,duration_weeks,certificate,mode,course_url,last_checked_date,notes
+Data Analyst,Example Course A,Example Platform,5000,8,yes,self-paced,https://example.com,2026-11-13,SAMPLE template row
+Data Analyst,Example Course B,Example Platform,15000,12,yes,live,https://example.com,2026-11-13,SAMPLE template row
