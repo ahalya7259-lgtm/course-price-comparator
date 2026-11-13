@@ -1,0 +1,1 @@
+"""Course Price Comparator helpers."""
